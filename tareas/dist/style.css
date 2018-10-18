@@ -1,0 +1,7 @@
+.cambiar {
+    color: brown;
+    -webkit-transform: rotate(50deg);
+            transform: rotate(50deg)
+}
+
+
